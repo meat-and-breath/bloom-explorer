@@ -66,7 +66,7 @@ object BloomApp extends JSApp {
     val addBox = div(addWordsTextArea, addWordsButton).render
     val checkBox = div(checkWordInput, checkWordButton, checkWordResponse).render
 
-    jQuery(addBox).appendTo(jQuery("#add-box"))
+    jQuery(addBox).insertAfter(jQuery("#add-header"))
     jQuery(checkBox).insertAfter(jQuery("#check-header"))
   }
 }
