@@ -1,0 +1,52 @@
+button {
+  margin: 5px;
+}
+
+.input-box {
+  width: 400px;
+  margin-top: 20px;
+}
+
+#add-box {
+  float: left;
+  margin-left: 10%;
+}
+
+#add-text {
+  width: 30em;
+  height: 30em;
+}
+
+#check-box {
+  float: right;
+  margin-right: 10%;
+}
+
+#check-text {
+  width: 30em;
+  margin-bottom: 10px;
+}
+
+#check-response {
+  width: 100%;
+  height: 20px;
+  text-align: center;
+}
+
+#bloom {
+  padding-top: 10px;
+}
+
+#bloom div {
+  float: left;
+  text-align: right;
+  padding: 3px;
+  border: 1px solid white;
+  background-color: white;
+  color: white;
+}
+
+p {
+  clear: both;
+  margin: 5px;
+}
