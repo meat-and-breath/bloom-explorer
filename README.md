@@ -3,7 +3,7 @@ Bloom Explorer
 
 This is a toy project for exploring [Bloom Filters](http://codekata.com/kata/kata05-bloom-filters/), [Scala.js](https://www.scala-js.org), and [D3.js](https://d3js.org/).
 
-The project generates a simple web page where you can enter words into a Bloom Filter and check for set membership. In addition, it gives you a spiffy little visualization of which bits in the filter are set and which bits were checked for the word you entered.
+The project generates a simple web page where you can enter words into a Bloom Filter and check for set membership. In addition, it gives you a nifty little visualization of which bits in the filter are set and which bits were checked for the word you entered.
 
 You can see it in action here: [Bloom Filter](http://bloomexp.nfshost.com/)
 
